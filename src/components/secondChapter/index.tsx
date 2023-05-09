@@ -2,7 +2,7 @@ import Image from "next/image"
 
 const SecondChapter = () => {
   return (
-    <div className="w-screen h-screen flex-col justify-center p-8">
+    <div className="w-screen h-screen flex-col justify-center p-8" id="second">
       <h1 className="text-[80px] underline decoration-red-900 underline-offset-8 text-red-700 text-center font-sans font-bold">
         O lado que não vemos
       </h1>

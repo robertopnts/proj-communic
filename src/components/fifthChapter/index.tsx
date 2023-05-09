@@ -2,7 +2,7 @@ import Image from "next/image"
 
 const FifthChapter = () => {
   return (
-    <div className="w-screen h-[880px] flex-col justify-center p-8">
+    <div className="w-screen h-[880px] flex-col justify-center p-8" id="fifth">
       <h1 className="text-[80px] underline decoration-red-900 underline-offset-8 text-red-700 text-center font-sans font-bold">
         Devagar se aprende a viver novamente
       </h1>
